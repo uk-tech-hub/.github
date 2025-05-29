@@ -2,11 +2,8 @@
 
 <!--
 
-**Here are some ideas to get you started:**
+**We are Iranian professionals working in the technology sector in the UK**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Our main objective is to establish regular gatherings, to foster networking opportunities and facilitate the exchange of knowledge regarding the latest advancements in our field, particularly within computer science and engineering, as well as artificial intelligence and machine learning.
+
 -->
